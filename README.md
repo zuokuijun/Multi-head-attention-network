@@ -3,14 +3,15 @@
 >Based on the UIUC database, the relevant airfoil parameterization work is carried out：[UIUC Airfoil Data Site (illinois.edu)](https://m-selig.ae.illinois.edu/ads/coord_database.html)
 
 <p align="center">
-    <img src="./images/CNN.png" />
+    <img src="./images/cnn.png" />
 </p>
 
 
 
 <p align="center">
-    <img src="./images/MHA-net.png" />
+    <img src="./images/MHP.png" />
 </p>
+
 1、`airfoil_interpolate.py` used to interpolate scattered airfoil coordinates into 70 uniform coordinate data
 
 2、First run `get_xy_coordinate.py` get x,y coordinates of the interpolated different airfoils
