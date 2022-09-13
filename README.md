@@ -28,4 +28,4 @@
 
 8、A similar file that begins with mlp represents code related to MLP flow field prediction
 
-9、A similar file that begins with mha represents code related to MHA-net flow field prediction
+9、A similar file that begins with MHP represents code related to MHP flow field prediction
